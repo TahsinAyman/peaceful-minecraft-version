@@ -1,0 +1,14 @@
+{
+	"favorites": [
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:shield\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:pale_oak_boat\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:polished_blackstone_wall\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:smithing_table\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:blackstone\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:apple\"}},type:\"roughlyenoughitems:entry_stack\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": [
+		"{DisplayHistoryCategory:\"minecraft:plugins/crafting\",DisplayHistoryContains:1b,DisplayHistoryData:{height:3,inputs:[[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:stick\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:stick\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:stick\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:iron_nugget\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:chest\"}},{type:\"minecraft:item\",value:{count:1,id:\"minecraft:trapped_chest\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:stick\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:stick\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:stick\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:stick\"}}]],location:\"mcwfurnitures:cabinet_door\",outputs:[[{type:\"minecraft:item\",value:{count:1,id:\"mcwfurnitures:cabinet_door\"}}]],type:\"minecraft:default/crafting/custom_shaped\",width:3},DisplayHistoryUUID:\"0397c539-3f8d-420a-8e0c-6ca06a87c8d3\"}"
+	]
+}

@@ -1,0 +1,36 @@
+# Minecraft instance gitignore (Peace Aah)
+# Keeps portable setup files and excludes caches/runtime data.
+
+# Core runtime/cache noise
+cache/
+logs/
+downloads/
+natives/
+resourcify-temp/
+server-resource-packs/
+
+# Launcher/runtime artifacts
+*.log
+hs_err_pid*
+*.heapdump
+command_history.txt
+usercache.json
+
+# Optional personal content (usually large/churn-heavy)
+saves/
+screenshots/
+schematics/
+
+# Optional map and tool data (regenerated and noisy)
+xaero/world-map/
+worldedit/schematics/
+
+# Keep these folders tracked (no ignore rules needed):
+# mods/
+# resourcepacks/
+# shaderpacks/
+# config/
+# essential/
+# Peace Aah.json
+# options.txt
+# README.md

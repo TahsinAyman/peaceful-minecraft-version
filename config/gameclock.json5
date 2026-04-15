@@ -1,0 +1,12 @@
+{
+	guiPosition: "BOTTOM_LEFT",
+	shadowText: true,
+	// I messed up naming it hexcolor in v1 (this is text color)
+	hexColor: -1,
+	xPadding: 5,
+	yPadding: 5,
+	is24Hour: false,
+	enableTextBackground: false,
+	backgroundColor: -1873784752,
+	showSeconds: false
+}
