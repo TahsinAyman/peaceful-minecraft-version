@@ -14,6 +14,7 @@ This file documents the current setup so you can recreate it on another PC.
 Copy these folders/files to the same Minecraft instance on the new PC:
 
 - mods/
+- saves/
 - resourcepacks/
 - shaderpacks/
 - config/
@@ -21,6 +22,8 @@ Copy these folders/files to the same Minecraft instance on the new PC:
 - Peace Aah.json
 
 ## Mods (from mods folder)
+
+Last synced: 2026-04-24
 
 Notes:
 
@@ -53,15 +56,15 @@ Notes:
 | entity_texture_features_1.21.6-fabric-7.0.2    | 1.21.6-fabric-7.0.2               |
 | Essential_1-3-10-8_fabric_1-21-8               | 1.3.10.8 (from file tag 1-3-10-8) |
 | fabric-api-0.136.0+1.21.8                      | 0.136.0+1.21.8                    |
-| fabric-api-0.136.1+1.21.8                      | 0.136.1+1.21.8                    |
-| fabric-language-kotlin-1.13.10+kotlin.2.3.20   | 1.13.10+kotlin.2.3.20             |
+| fabric-api-0.136.1%2B1.21.8                    | 0.136.1+1.21.8                    |
+| fabric-language-kotlin-1.13.10%2Bkotlin.2.3.20 | 1.13.10+kotlin.2.3.20             |
 | fallingleaves-2.0.1+1.21.5                     | 2.0.1+1.21.5                      |
 | fusion-1.2.11-fabric-mc1.21.6                  | 1.2.11-fabric-mc1.21.6            |
 | fusion-1.2.12-fabric-mc1.21.6                  | 1.2.12-fabric-mc1.21.6            |
 | gameclock-fabric-2.1.0                         | 2.1.0                             |
 | Geophilic v3.4.4 f15-88.mod                    | 3.4.4                             |
 | HMI 5.0L3 1.21.6+                              | 5.0L3                             |
-| ImmediatelyFast-Fabric-1.12.5+1.21.8           | 1.12.5+1.21.8                     |
+| ImmediatelyFast-Fabric-1.12.5%2B1.21.8         | 1.12.5+1.21.8                     |
 | indium-1.0.35+mc1.21                           | 1.0.35+mc1.21                     |
 | iris-fabric-1.9.6+mc1.21.8                     | 1.9.6+mc1.21.8                    |
 | lithostitched-fabric-1.21.6-1.4.11             | 1.21.6-1.4.11                     |
@@ -80,10 +83,10 @@ Notes:
 | noisium-fabric-2.7.0+mc1.21.6-8                | 2.7.0+mc1.21.6-8                  |
 | OrthoCamera-0.1.9+1.21.6                       | 0.1.9+1.21.6                      |
 | placeholder-api-2.7.2+1.21.8                   | 2.7.2+1.21.8                      |
-| Resourcify (1.21.8-fabric)-1.8.1               | 1.8.1                             |
+| Resourcify%20(1.21.8-fabric)-1.8.1             | 1.8.1                             |
 | RoughlyEnoughItems-20.0.811-fabric             | 20.0.811-fabric                   |
 | sodium-fabric-0.7.2+mc1.21.8                   | 0.7.2+mc1.21.8                    |
-| sodium-fabric-0.7.3+mc1.21.8                   | 0.7.3+mc1.21.8                    |
+| sodium-fabric-0.7.3%2Bmc1.21.8                 | 0.7.3+mc1.21.8                    |
 | sound-physics-remastered-fabric-1.21.8-1.5.1   | 1.21.8-1.5.1                      |
 | sounds-2.4.16+edge+1.21.8+fabric               | 2.4.16+edge+1.21.8+fabric         |
 | supermartijn642configlib-1.1.8-fabric-mc1.21   | 1.1.8-fabric-mc1.21               |
@@ -97,6 +100,13 @@ Notes:
 | worldedit-mod-7.3.16                           | 7.3.16                            |
 | xaeroworldmap-fabric-1.21.8-1.40.11            | 1.21.8-1.40.11                    |
 | yet_another_config_lib_v3-3.7.1+1.21.6-fabric  | 3.7.1+1.21.6-fabric               |
+
+## Saves (saves folder)
+
+- House Building
+- Nay Gigger
+- Peace
+- Peace Creativve
 
 ## Texture Packs (resourcepacks folder)
 
@@ -121,6 +131,6 @@ Notes:
 
 1. Install Minecraft 1.21.8 with Fabric Loader 0.18.6.
 2. Create or copy this instance as Peace Aah.
-3. Copy mods, resourcepacks, shaderpacks, and config into the new instance.
+3. Copy mods, saves, resourcepacks, shaderpacks, and config into the new instance.
 4. Launch once and confirm no missing dependencies.
 5. Keep only one version when duplicates exist (for example Sodium, Fabric API, Distant Horizons, ETF/EMF, Fusion, TL skin/cape).
