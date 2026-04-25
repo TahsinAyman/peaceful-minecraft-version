@@ -882,84 +882,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 508933,
-          "name": "Distant Horizons A Level of Detail mod",
-          "author": "james_seibel",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/distant-horizons",
-          "favorite": false,
-          "categories": [],
-          "picture": 1075291,
-          "pictures": [
-            248930,
-            336911,
-            336908,
-            389408,
-            802876,
-            270640,
-            270643,
-            336907,
-            802878,
-            270644,
-            336910,
-            248928,
-            270639,
-            802877,
-            248925,
-            389409,
-            336909,
-            588629
-          ],
-          "lanName": "distant-horizons",
-          "version": {
-            "id": 7375292,
-            "name": "DistantHorizons-2.4.5-b-1.21.8-fabric-neoforge",
-            "updateDate": 1766637218000,
-            "type": "beta",
-            "gameVersionsDTO": [
-              {
-                "id": 63,
-                "name": "1.21.8"
-              }
-            ],
-            "metadata": {
-              "sha1": "5bb4967f01f8008f9fb6ac442e4d788b45594342",
-              "size": 25533469,
-              "path": "mods/DistantHorizons-2.4.5-b-1.21.8-fabric-neoforge.jar",
-              "url": "/mods/508933/7375292/DistantHorizons-2.4.5-b-1.21.8-fabric-neoforge.jar"
-            },
-            "installed": 6491,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              },
-              {
-                "id": 2,
-                "name": "fabric"
-              }
-            ]
-          },
-          "popularity": 5,
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 66,
-            "name": "1.21.11"
-          },
-          "updated": 1766610000000,
-          "update": 1766610000000,
-          "downloadALL": 1348268,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 686911,
           "name": "ImmediatelyFast",
           "author": "raphimc",
@@ -1551,29 +1473,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": -1195413572700,
-          "name": "DistantHorizons-2.3.6-b-1.21.8-fabric-neoforge",
-          "favorite": false,
-          "version": {
-            "id": -1195436815600,
-            "name": "1.0",
-            "metadata": {
-              "sha1": "f3694b8d7c8507a39bf62ee7986e1c3ebcf0d157",
-              "size": 25516728,
-              "path": "mods/DistantHorizons-2.3.6-b-1.21.8-fabric-neoforge.jar",
-              "url": "mods/DistantHorizons-2.3.6-b-1.21.8-fabric-neoforge.jar"
-            },
-            "available": false,
-            "remove": false
-          },
-          "userInstall": true,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": -1195436862200,
           "name": "fallingleaves-2.0.1+1.21.5",
           "favorite": false,
@@ -1893,88 +1792,6 @@
           "available": false,
           "parser": false,
           "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 433175,
-          "name": "Chunky (Fabric)",
-          "author": "pop4959",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 17,
-              "name": "world_dimensions",
-              "shortName": "dimensions",
-              "nesting": 0
-            },
-            {
-              "id": 15,
-              "name": "server_utility",
-              "shortName": "plugins",
-              "nesting": 0
-            },
-            {
-              "id": 29,
-              "name": "world_gen",
-              "shortName": "world",
-              "nesting": 0
-            }
-          ],
-          "picture": 844488,
-          "pictures": [],
-          "lanName": "chunky-pregenerator",
-          "version": {
-            "id": 6677894,
-            "name": "Chunky-Fabric-1.4.40",
-            "updateDate": 1750494219000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 63,
-                "name": "1.21.8"
-              },
-              {
-                "id": 62,
-                "name": "1.21.7"
-              },
-              {
-                "id": 61,
-                "name": "1.21.6"
-              }
-            ],
-            "metadata": {
-              "sha1": "0e72174f0ad00f44a4aa53d92269a0461e0352a9",
-              "size": 349221,
-              "path": "mods/Chunky-Fabric-1.4.40.jar",
-              "url": "/mods/433175/6677894/Chunky-Fabric-1.4.40.jar"
-            },
-            "installed": 10060,
-            "available": false,
-            "remove": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 2,
-                "name": "fabric"
-              }
-            ]
-          },
-          "popularity": 3,
-          "downloadMonth": 6,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 67,
-            "name": "26.1"
-          },
-          "updated": 1774990800000,
-          "update": 1774990800000,
-          "downloadALL": 139990,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
         },
         {
           "stateGameElement": "active",
@@ -3477,6 +3294,111 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 433175,
+          "name": "Chunky (Fabric)",
+          "author": "pop4959",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 17,
+              "name": "world_dimensions",
+              "shortName": "dimensions",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 844488,
+          "pictures": [],
+          "lanName": "chunky-pregenerator",
+          "version": {
+            "id": 6677894,
+            "name": "Chunky-Fabric-1.4.40",
+            "updateDate": 1750494219000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              }
+            ],
+            "metadata": {
+              "sha1": "0e72174f0ad00f44a4aa53d92269a0461e0352a9",
+              "size": 349221,
+              "path": "mods/Chunky-Fabric-1.4.40.jar",
+              "url": "/mods/433175/6677894/Chunky-Fabric-1.4.40.jar"
+            },
+            "installed": 10341,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 6,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 67,
+            "name": "26.1"
+          },
+          "updated": 1774990800000,
+          "update": 1774990800000,
+          "downloadALL": 145960,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -3309024514400,
+          "name": "DistantHorizons-2.3.6-b-1.21.8-fabric-neoforge",
+          "favorite": false,
+          "version": {
+            "id": -3309165949200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "f3694b8d7c8507a39bf62ee7986e1c3ebcf0d157",
+              "size": 25516728,
+              "path": "mods/DistantHorizons-2.3.6-b-1.21.8-fabric-neoforge.jar",
+              "url": "mods/DistantHorizons-2.3.6-b-1.21.8-fabric-neoforge.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [

@@ -13,7 +13,7 @@ glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:true
-gamma:0.5
+gamma:1.0
 graphicsMode:1
 guiScale:2
 maxFps:260
@@ -24,8 +24,8 @@ particles:0
 reducedDebugInfo:false
 renderClouds:"false"
 cloudRange:128
-renderDistance:32
-simulationDistance:23
+renderDistance:13
+simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
 autoJump:false
