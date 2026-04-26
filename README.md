@@ -23,7 +23,7 @@ Copy these folders/files to the same Minecraft instance on the new PC:
 
 ## Mods (from mods folder)
 
-Last synced: 2026-04-24
+Last synced: 2026-04-26
 
 Notes:
 
@@ -47,7 +47,6 @@ Notes:
 | create-fly-1.21.8-6.0.8-1                      | 1.21.8-6.0.8-1                    |
 | CreativeCore_FABRIC_v2.14.7_mc1.21.8           | 2.14.7_mc1.21.8                   |
 | DistantHorizons-2.3.6-b-1.21.8-fabric-neoforge | 2.3.6-b-1.21.8-fabric-neoforge    |
-| DistantHorizons-2.4.5-b-1.21.8-fabric-neoforge | 2.4.5-b-1.21.8-fabric-neoforge    |
 | dynamiclights-v1.9-mc1.17-1.21.9-mod           | 1.9-mc1.17-1.21.9-mod             |
 | e4mc_minecraft-fabric-5.4.1                    | 5.4.1                             |
 | entity_model_features_1.21.6-fabric-3.0.1      | 1.21.6-fabric-3.0.1               |
@@ -97,6 +96,7 @@ Notes:
 | tl_skin_cape_fabric_1.21.6_1.21.8-1.38         | 1.21.6_1.21.8-1.38                |
 | tl_skin_cape_fabric_1.21.6_1.21.8-1.381        | 1.21.6_1.21.8-1.381               |
 | travelersbackpack-fabric-1.21.8-10.8.4         | 1.21.8-10.8.4                     |
+| voxy-0.2.5-alpha                               | 0.2.5-alpha                       |
 | worldedit-mod-7.3.16                           | 7.3.16                            |
 | xaeroworldmap-fabric-1.21.8-1.40.11            | 1.21.8-1.40.11                    |
 | yet_another_config_lib_v3-3.7.1+1.21.6-fabric  | 3.7.1+1.21.6-fabric               |
@@ -133,4 +133,4 @@ Notes:
 2. Create or copy this instance as Peace Aah.
 3. Copy mods, saves, resourcepacks, shaderpacks, and config into the new instance.
 4. Launch once and confirm no missing dependencies.
-5. Keep only one version when duplicates exist (for example Sodium, Fabric API, Distant Horizons, ETF/EMF, Fusion, TL skin/cape).
+5. Keep only one version when duplicates exist (for example Sodium, Fabric API, ETF/EMF, Fusion, TL skin/cape, SuperMartijn642 Core Lib).
